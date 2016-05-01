@@ -1,2 +1,2 @@
-# test-make
+# test
 輪講用
